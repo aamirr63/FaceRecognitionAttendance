@@ -1,6 +1,6 @@
 # FaceRecognitionAttendance
 
-This is my college project named FaceRecognitionAttendance. It is a Python-based project that uses a webcam to recognize faces and automatically mark attendance.
+This is my college project name FaceRecognitionAttendance. It is a Python-based project that uses a webcam to recognize faces and automatically mark attendance.
 
 Features:
 - Admin Login system
