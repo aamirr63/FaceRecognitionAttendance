@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS admin(
 # Default Admin
 cursor.execute("""
 INSERT OR IGNORE INTO admin(username,password)
-VALUES('Chahat','chahatbhai')
+VALUES('Aamir','aamirr63')
 """)
 
 conn.commit()

@@ -2,10 +2,10 @@ from db.db import *
 
 add_student(
     "101",
-    "Chahat",
-    "BCA",
-    "9876543210",
-    "chahat@gmail.com",
+    "Aamir",
+    "Mac",
+    "6395810160",
+    "m.aamirr63@gmail.com",
     "male",
     100
 )

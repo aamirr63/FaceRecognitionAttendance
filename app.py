@@ -367,7 +367,7 @@ bottom.pack(side="bottom",fill="x")
 
 ctk.CTkLabel(
     bottom,
-    text="Developed by Chahat Mishra | Face Recognition Attendance System",
+    text="Developed by Aamir | Face Recognition Attendance System",
     font=("Arial",15)
 ).pack(pady=15)
 attendance_rows = []
